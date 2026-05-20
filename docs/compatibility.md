@@ -10,7 +10,7 @@ This documentation outlines places where the API differs...
 Unlike `requests`, HTTPX does **not follow redirects by default**.
 
 We differ in behaviour here [because auto-redirects can easily mask unnecessary network
-calls being made](https://github.com/encode/httpx2/discussions/1785).
+calls being made](https://github.com/encode/httpx/discussions/1785).
 
 You can still enable behaviour to automatically follow redirects, but you need to
 do so explicitly...

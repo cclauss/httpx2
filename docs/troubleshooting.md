@@ -14,7 +14,7 @@ This page lists some common problems or issues you could encounter while develop
 httpx2.ProxyError: _ssl.c:1091: The handshake operation timed out
 ```
 
-**Similar issues**: [encode/httpx2#1412](https://github.com/encode/httpx2/issues/1412), [encode/httpx2#1433](https://github.com/encode/httpx2/issues/1433)
+**Similar issues**: [pydantic/httpx2#1412](https://github.com/encode/httpx/issues/1412), [pydantic/httpx2#1433](https://github.com/encode/httpx/issues/1433)
 
 **Resolution**: it is likely that you've set up your proxies like this...
 
@@ -58,6 +58,6 @@ For more information, see [Proxies: FORWARD vs TUNNEL](advanced/proxies.md#forwa
 httpx2.ProxyError: [SSL: PRE_MAC_LENGTH_TOO_LONG] invalid alert (_ssl.c:1091)
 ```
 
-**Similar issues**: [encode/httpx2#1424](https://github.com/encode/httpx2/issues/1424).
+**Similar issues**: [pydantic/httpx2#1424](https://github.com/encode/httpx/issues/1424).
 
-**Resolution**: HTTPX does not properly support HTTPS proxies at this time. If that's something you're interested in having, please see [encode/httpx2#1434](https://github.com/encode/httpx2/issues/1434) and consider lending a hand there.
+**Resolution**: HTTPX does not properly support HTTPS proxies at this time. If that's something you're interested in having, please see [pydantic/httpx2#1434](https://github.com/encode/httpx/issues/1434) and consider lending a hand there.
