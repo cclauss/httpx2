@@ -18,39 +18,39 @@ An elegant HTTP Cache implementation for HTTPX and HTTP Core.
 
 Provides authentication classes to be used with HTTPX's [authentication parameter](advanced/authentication.md#custom-authentication-schemes).
 
-### httpx-caching
+### httpx2-caching
 
-[Github](https://github.com/johtso/httpx-caching)
+[Github](https://github.com/johtso/httpx2-caching)
 
 This package adds caching functionality to HTTPX
 
-### httpx-secure
+### httpx2-secure
 
-[GitHub](https://github.com/Zaczero/httpx-secure)
+[GitHub](https://github.com/Zaczero/httpx2-secure)
 
-Drop-in SSRF protection for httpx with DNS caching and custom validation support.
+Drop-in SSRF protection for httpx2 with DNS caching and custom validation support.
 
-### httpx-socks
+### httpx2-socks
 
-[GitHub](https://github.com/romis2012/httpx-socks)
+[GitHub](https://github.com/romis2012/httpx2-socks)
 
-Proxy (HTTP, SOCKS) transports for httpx.
+Proxy (HTTP, SOCKS) transports for httpx2.
 
-### httpx-sse
+### httpx2-sse
 
-[GitHub](https://github.com/florimondmanca/httpx-sse)
+[GitHub](https://github.com/florimondmanca/httpx2-sse)
 
 Allows consuming Server-Sent Events (SSE) with HTTPX.
 
-### httpx-retries
+### httpx2-retries
 
-[GitHub](https://github.com/will-ockmore/httpx-retries) - [Documentation](https://will-ockmore.github.io/httpx-retries/)
+[GitHub](https://github.com/will-ockmore/httpx2-retries) - [Documentation](https://will-ockmore.github.io/httpx2-retries/)
 
 A retry layer for HTTPX.
 
-### httpx-ws
+### httpx2-ws
 
-[GitHub](https://github.com/frankie567/httpx-ws) - [Documentation](https://frankie567.github.io/httpx-ws/)
+[GitHub](https://github.com/frankie567/httpx2-ws) - [Documentation](https://frankie567.github.io/httpx2-ws/)
 
 WebSocket support for HTTPX.
 
@@ -78,13 +78,13 @@ A fast and powerful RPC framework based on ASGI/WSGI. Use HTTPX as the client of
 
 [GitHub](https://github.com/lepture/authlib) - [Documentation](https://docs.authlib.org/en/latest/)
 
-A python library for building OAuth and OpenID Connect clients and servers. Includes an [OAuth HTTPX client](https://docs.authlib.org/en/latest/client/httpx.html).
+A python library for building OAuth and OpenID Connect clients and servers. Includes an [OAuth HTTPX client](https://docs.authlib.org/en/latest/client/httpx2.html).
 
 ### Gidgethub
 
 [GitHub](https://github.com/brettcannon/gidgethub) - [Documentation](https://gidgethub.readthedocs.io/en/latest/index.html)
 
-An asynchronous GitHub API library. Includes [HTTPX support](https://gidgethub.readthedocs.io/en/latest/httpx.html).
+An asynchronous GitHub API library. Includes [HTTPX support](https://gidgethub.readthedocs.io/en/latest/httpx2.html).
 
 ### httpdbg
 
